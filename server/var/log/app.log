@@ -1,78 +1,16 @@
-20220213_212548 622 -> _internal WARNING :  * Running on all addresses.
+20220214_000706 694 -> _internal WARNING :  * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
-20220213_212548 622 -> _internal INFO :  * Running on http://172.20.174.91:8080/ (Press CTRL+C to quit)
-20220213_212548 623 -> _internal INFO :  * Restarting with stat
-20220213_212548 757 -> _internal WARNING :  * Debugger is active!
-20220213_212548 757 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_212616 256 -> app INFO : [>>>] {"type": "generate", "version": "1.0", "param": {}, "uuid": "b28f85f3-322f-46c3-a7f6-f43f07805860"}
-20220213_212616 637 -> app INFO : [<<<] {"type": "generate", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt"}, "requestUuid": "b28f85f3-322f-46c3-a7f6-f43f07805860"}
-20220213_212616 637 -> _internal INFO : 127.0.0.1 - - [13/Feb/2022 21:26:16] "POST /api HTTP/1.1" 200 -
-20220213_212632 66 -> app INFO : [>>>] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt"}, "uuid": "b868346c-78e4-4fcf-8696-2bfc027e6dd9"}
-20220213_212632 277 -> app INFO : [<<<] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt", "alphabetical strings": 25465, "integers": 23472, "real numbers": 23477, "alphanumerics": 20547}, "requestUuid": "b868346c-78e4-4fcf-8696-2bfc027e6dd9"}
-20220213_212632 277 -> _internal INFO : 127.0.0.1 - - [13/Feb/2022 21:26:32] "GET /api HTTP/1.1" 200 -
-20220213_213104 247 -> _internal INFO :  * Detected change in '/home/febry/backendFlask/app.py', reloading
-20220213_213104 265 -> _internal INFO :  * Restarting with stat
-20220213_213104 399 -> _internal WARNING :  * Debugger is active!
-20220213_213104 399 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_213122 486 -> _internal INFO :  * Detected change in '/home/febry/backendFlask/app.py', reloading
-20220213_213122 504 -> _internal INFO :  * Restarting with stat
-20220213_213122 642 -> _internal WARNING :  * Debugger is active!
-20220213_213122 642 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_213607 311 -> _internal WARNING :  * Running on all addresses.
-   WARNING: This is a development server. Do not use it in a production deployment.
-20220213_213607 311 -> _internal INFO :  * Running on http://172.20.174.91:8080/ (Press CTRL+C to quit)
-20220213_213607 313 -> _internal INFO :  * Restarting with stat
-20220213_213607 450 -> _internal WARNING :  * Debugger is active!
-20220213_213607 450 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_213612 595 -> app INFO : [>>>] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt"}, "uuid": "ed9b1c31-a247-430a-9651-1f55b926e27d"}
-20220213_213612 802 -> app INFO : [<<<] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt", "alphabetical strings": 25465, "integers": 23472, "real numbers": 23477, "alphanumerics": 20547}, "requestUuid": "ed9b1c31-a247-430a-9651-1f55b926e27d"}
-20220213_213612 803 -> _internal INFO : 127.0.0.1 - - [13/Feb/2022 21:36:12] "GET /api HTTP/1.1" 200 -
-20220213_213627 434 -> app INFO : [>>>] {"type": "generate", "version": "1.0", "param": {}, "uuid": "6a61abf2-5648-4ed4-8aa3-894fa156da00"}
-20220213_213627 709 -> app INFO : [<<<] {"type": "generate", "version": "1.0", "param": {"link": "/home/febry/clientServer/server/randomData.txt"}, "requestUuid": "6a61abf2-5648-4ed4-8aa3-894fa156da00"}
-20220213_213627 710 -> _internal INFO : 127.0.0.1 - - [13/Feb/2022 21:36:27] "POST /api HTTP/1.1" 200 -
-20220213_213648 898 -> app INFO : [>>>] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt"}, "uuid": "ce802d07-be12-4fb0-a90c-57a3146b0740"}
-20220213_213649 104 -> app INFO : [<<<] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt", "alphabetical strings": 25465, "integers": 23472, "real numbers": 23477, "alphanumerics": 20547}, "requestUuid": "ce802d07-be12-4fb0-a90c-57a3146b0740"}
-20220213_213649 104 -> _internal INFO : 127.0.0.1 - - [13/Feb/2022 21:36:49] "GET /api HTTP/1.1" 200 -
-20220213_214108 337 -> _internal INFO :  * Detected change in '/home/febry/clientServer/server/app.py', reloading
-20220213_214108 359 -> _internal INFO :  * Restarting with stat
-20220213_214108 491 -> _internal WARNING :  * Debugger is active!
-20220213_214108 492 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_214346 449 -> _internal INFO :  * Detected change in '/home/febry/clientServer/server/app.py', reloading
-20220213_214346 466 -> _internal INFO :  * Restarting with stat
-20220213_214346 596 -> _internal WARNING :  * Debugger is active!
-20220213_214346 596 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_214351 58 -> app INFO : [>>>] {"type": "generate", "version": "1.0", "param": {}, "uuid": "e050f297-5881-43d9-8a97-7890f5b36df8"}
-20220213_214351 58 -> app INFO : generate file starting...
-20220213_214351 59 -> app INFO : file was generated = /home/febry/clientServer/server/randomData.txt
-20220213_214351 445 -> app INFO : [<<<] {"type": "generate", "version": "1.0", "param": {"link": "/home/febry/clientServer/server/randomData.txt"}, "requestUuid": "e050f297-5881-43d9-8a97-7890f5b36df8"}
-20220213_214351 446 -> _internal INFO : 127.0.0.1 - - [13/Feb/2022 21:43:51] "POST /api HTTP/1.1" 200 -
-20220213_214701 771 -> _internal INFO :  * Detected change in '/home/febry/clientServer/server/app.py', reloading
-20220213_214701 796 -> _internal INFO :  * Restarting with stat
-20220213_214701 927 -> _internal WARNING :  * Debugger is active!
-20220213_214701 927 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_214703 728 -> app INFO : [>>>] {"type": "generate", "version": "1.0", "param": {}, "uuid": "24c4ccf2-a587-4f84-b6db-fdca7b360e07"}
-20220213_214703 728 -> app INFO : generate file starting...
-20220213_214703 728 -> app INFO : file was generated = /home/febry/clientServer/server/randomData.txt
-20220213_214704 71 -> app INFO : [<<<] {"type": "generate", "version": "1.0", "param": {"link": "/home/febry/clientServer/server/randomData.txt"}, "requestUuid": "24c4ccf2-a587-4f84-b6db-fdca7b360e07"}
-20220213_214704 72 -> _internal INFO : 127.0.0.1 - - [13/Feb/2022 21:47:04] "POST /api HTTP/1.1" 200 -
-20220213_214719 234 -> app INFO : [>>>] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt"}, "uuid": "e0646fd8-5f84-4203-bf45-0844fad94e2d"}
-20220213_214719 234 -> app INFO : read file starting...
-20220213_214719 455 -> app INFO : read file done
-20220213_214719 455 -> app INFO : [<<<] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/backendFlask/randomData.txt", "alphabetical strings": 25465, "integers": 23472, "real numbers": 23477, "alphanumerics": 20547}, "requestUuid": "e0646fd8-5f84-4203-bf45-0844fad94e2d"}
-20220213_214719 455 -> _internal INFO : 127.0.0.1 - - [13/Feb/2022 21:47:19] "GET /api HTTP/1.1" 200 -
-20220213_215849 558 -> _internal WARNING :  * Running on all addresses.
-   WARNING: This is a development server. Do not use it in a production deployment.
-20220213_215849 558 -> _internal INFO :  * Running on http://172.20.174.91:8080/ (Press CTRL+C to quit)
-20220213_215849 560 -> _internal INFO :  * Restarting with stat
-20220213_215849 686 -> _internal WARNING :  * Debugger is active!
-20220213_215849 686 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_215909 933 -> _internal INFO :  * Detected change in '/home/febry/clientServer/server/app.py', reloading
-20220213_215909 950 -> _internal INFO :  * Restarting with stat
-20220213_215910 80 -> _internal WARNING :  * Debugger is active!
-20220213_215910 80 -> _internal INFO :  * Debugger PIN: 110-949-271
-20220213_215912 447 -> _internal WARNING :  * Running on all addresses.
-   WARNING: This is a development server. Do not use it in a production deployment.
-20220213_215912 447 -> _internal INFO :  * Running on http://172.20.174.91:8080/ (Press CTRL+C to quit)
-20220213_215912 449 -> _internal INFO :  * Restarting with stat
-20220213_215912 580 -> _internal WARNING :  * Debugger is active!
-20220213_215912 581 -> _internal INFO :  * Debugger PIN: 110-949-271
+20220214_000706 695 -> _internal INFO :  * Running on http://172.20.174.91:8080/ (Press CTRL+C to quit)
+20220214_000706 699 -> _internal INFO :  * Restarting with stat
+20220214_000706 844 -> _internal WARNING :  * Debugger is active!
+20220214_000706 844 -> _internal INFO :  * Debugger PIN: 110-949-271
+20220214_000723 817 -> app INFO : [>>>] {"type": "generate", "version": "1.0", "param": {}, "uuid": "8dad5e5a-3163-4556-ab5c-2db46128a612"}
+20220214_000723 817 -> app INFO : generate file starting...
+20220214_000723 818 -> app INFO : file was generated = /home/febry/clientServer/server/randomData.txt
+20220214_000724 270 -> app INFO : [<<<] {"type": "generate", "version": "1.0", "param": {"link": "/home/febry/clientServer/server/randomData.txt"}, "requestUuid": "8dad5e5a-3163-4556-ab5c-2db46128a612"}
+20220214_000724 271 -> _internal INFO : 127.0.0.1 - - [14/Feb/2022 00:07:24] "POST /api HTTP/1.1" 200 -
+20220214_000729 177 -> app INFO : [>>>] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/clientServer/server/randomData.txt"}, "uuid": "9b37540b-1b1a-4700-a4ff-f8668733a691"}
+20220214_000729 177 -> app INFO : read file starting...
+20220214_000729 421 -> app INFO : read file done
+20220214_000729 421 -> app INFO : [<<<] {"type": "report", "version": "1.0", "param": {"link": "/home/febry/clientServer/server/randomData.txt", "alphabetical strings": 30109, "integers": 27721, "real numbers": 27699, "alphanumerics": 24100}, "requestUuid": "9b37540b-1b1a-4700-a4ff-f8668733a691"}
+20220214_000729 421 -> _internal INFO : 127.0.0.1 - - [14/Feb/2022 00:07:29] "GET /api HTTP/1.1" 200 -

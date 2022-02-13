@@ -34,7 +34,7 @@
     "type": "report",
     "version": "1.0",
     "param": {
-        "link": "/home/febry/backendFlask/randomData.txt"
+        "link": "/home/febry/clientServer/server/randomData.txt"
     },
     "uuid": "e0646fd8-5f84-4203-bf45-0844fad94e2d"
 }
@@ -53,3 +53,5 @@
     },
     "requestUuid": "e0646fd8-5f84-4203-bf45-0844fad94e2d"
 }
+
+# Note: You can see the log on /server/var/log/app.log
